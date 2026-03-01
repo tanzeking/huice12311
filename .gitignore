@@ -1,0 +1,16 @@
+# Data files
+data/
+data_1s/
+data_high_res/
+data_processed_10s/
+data_raw_1s/
+*.csv
+*.zip
+
+# Logs
+backtest_results.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
